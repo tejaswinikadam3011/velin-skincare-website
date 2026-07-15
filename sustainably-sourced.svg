@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 190" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Sustainably Sourced icon</title>
+<circle cx="150" cy="80" r="55" fill="#E8DFD3"/>
+<circle cx="150" cy="80" r="30" fill="none" stroke="#5F6E52" stroke-width="2.5"/>
+<ellipse cx="150" cy="80" rx="12" ry="30" fill="none" stroke="#5F6E52" stroke-width="1.5"/>
+<line x1="120" y1="80" x2="180" y2="80" stroke="#5F6E52" stroke-width="1.5"/>
+<line x1="124" y1="64" x2="176" y2="64" stroke="#5F6E52" stroke-width="1"/>
+<line x1="124" y1="96" x2="176" y2="96" stroke="#5F6E52" stroke-width="1"/>
+<path d="M168,58 C180,52 190,58 186,68 C182,78 170,76 166,68 C163,62 162,62 168,58 Z" fill="#C97B5D"/>
+<text x="150" y="165" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="1" fill="#5F6E52" font-weight="600">SUSTAINABLY SOURCED</text>
+</svg>

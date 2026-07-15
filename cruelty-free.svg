@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 190" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Cruelty-Free icon</title>
+<circle cx="150" cy="80" r="55" fill="#E8DFD3"/>
+<ellipse cx="132" cy="45" rx="9" ry="26" fill="#A8B79A" transform="rotate(-18 132 45)"/>
+<ellipse cx="168" cy="45" rx="9" ry="26" fill="#A8B79A" transform="rotate(18 168 45)"/>
+<circle cx="150" cy="90" r="24" fill="#F8F6F1" stroke="#5F6E52" stroke-width="2"/>
+<circle cx="142" cy="86" r="2.5" fill="#5F6E52"/>
+<circle cx="158" cy="86" r="2.5" fill="#5F6E52"/>
+<path d="M146,98 C148,101 152,101 154,98" fill="none" stroke="#C97B5D" stroke-width="1.5"/>
+<text x="150" y="165" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1.5" fill="#5F6E52" font-weight="600">CRUELTY-FREE</text>
+</svg>

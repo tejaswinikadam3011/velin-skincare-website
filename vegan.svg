@@ -1,0 +1,9 @@
+<svg viewBox="0 0 300 190" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Vegan icon</title>
+<circle cx="150" cy="80" r="55" fill="#E8DFD3"/>
+<path d="M150,45 C172,60 172,100 150,115 C128,100 128,60 150,45 Z" fill="#A8B79A"/>
+<line x1="150" y1="50" x2="150" y2="110" stroke="#5F6E52" stroke-width="1.5"/>
+<path d="M150,70 C143,77 139,86 139,86" fill="none" stroke="#5F6E52" stroke-width="1"/>
+<path d="M150,70 C157,77 161,86 161,86" fill="none" stroke="#5F6E52" stroke-width="1"/>
+<text x="150" y="165" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1.5" fill="#5F6E52" font-weight="600">VEGAN</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg viewBox="0 0 300 190" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>No Parabens icon</title>
+<circle cx="150" cy="80" r="55" fill="#E8DFD3"/>
+<path d="M150,48 C166,62 166,86 150,98 C134,86 134,62 150,48 Z" fill="#A8B79A"/>
+<circle cx="150" cy="78" r="26" fill="none" stroke="#C97B5D" stroke-width="3"/>
+<line x1="131" y1="59" x2="169" y2="97" stroke="#C97B5D" stroke-width="3"/>
+<text x="150" y="165" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="1.5" fill="#5F6E52" font-weight="600">NO PARABENS</text>
+</svg>
